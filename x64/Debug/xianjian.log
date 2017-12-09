@@ -1,0 +1,103 @@
+﻿生成启动时间为 2016/5/19 1:07:09。
+     1>项目“D:\QT\QT Project\xianjian\xianjian.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing battlewindow.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I. /I..\..\5.6\msvc2015_64\include /I..\..\5.6\msvc2015_64\include\QtMultimedia /I..\..\5.6\msvc2015_64\include\QtWidgets /I..\..\5.6\msvc2015_64\include\QtGui /I..\..\5.6\msvc2015_64\include\QtANGLE /I..\..\5.6\msvc2015_64\include\QtNetwork /I..\..\5.6\msvc2015_64\include\QtCore /Idebug /I. /I"..\..\5.6\msvc2015_64\mkspecs\win32-msvc2015" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D UNICODE /D WIN32 /D WIN64 /D QT_MULTIMEDIA_LIB /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /wd4577 /errorReport:prompt -Zc:strictStrings -Zc:throwingNew -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 battlewindow.cpp Debug\moc_battlewindow.cpp Debug\moc_mainwindow.cpp Debug\moc_map1.cpp enemy.cpp main.cpp mainwindow.cpp map1.cpp
+         battlewindow.cpp
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\map1.h(47): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\map1.h(47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\map1.h(47): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\enemy.h(49): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\enemy.h(49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\enemy.h(49): error C2238: 意外的标记位于“;”之前
+         moc_battlewindow.cpp
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\map1.h(47): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\map1.h(47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\map1.h(47): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\enemy.h(49): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\enemy.h(49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\enemy.h(49): error C2238: 意外的标记位于“;”之前
+         moc_mainwindow.cpp
+     1>d:\qt\qt project\xianjian\debug\../mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\battlewindow.h(20): error C2061: 语法错误: 标识符“Enemy”
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\Enemy.h(12): error C2061: 语法错误: 标识符“map1”
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_map1.cpp
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\battlewindow.h(20): error C2061: 语法错误: 标识符“Enemy”
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\Enemy.h(12): error C2061: 语法错误: 标识符“map1”
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         enemy.cpp
+     1>enemy.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\map1.h(47): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\map1.h(47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\map1.h(47): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\battlewindow.h(20): error C2061: 语法错误: 标识符“Enemy”
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2238: 意外的标记位于“;”之前
+     1>enemy.cpp(29): error C2660: “BattleWindow::setHeroAndEnemy”: 函数不接受 2 个参数
+         main.cpp
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\battlewindow.h(20): error C2061: 语法错误: 标识符“Enemy”
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\Enemy.h(12): error C2061: 语法错误: 标识符“map1”
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         mainwindow.cpp
+     1>mainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\battlewindow.h(20): error C2061: 语法错误: 标识符“Enemy”
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\Enemy.h(12): error C2061: 语法错误: 标识符“map1”
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         map1.cpp
+     1>map1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\Hero.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\qt\qt project\xianjian\battlewindow.h(20): error C2061: 语法错误: 标识符“Enemy”
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\battlewindow.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\Enemy.h(12): error C2061: 语法错误: 标识符“map1”
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\qt\qt project\xianjian\Enemy.h(28): error C2238: 意外的标记位于“;”之前
+     1>d:\qt\qt project\xianjian\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>map1.cpp(23): error C2661: “Enemy::Enemy”: 没有重载函数接受 3 个参数
+         正在生成代码...
+     1>已完成生成项目“D:\QT\QT Project\xianjian\xianjian.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:38.95

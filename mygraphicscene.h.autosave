@@ -1,0 +1,8 @@
+#ifndef MYGRAPHICSCENE_H
+#define MYGRAPHICSCENE_H
+
+#include <QGraphicsScene>
+
+class MyGraPhicsScene : public QGraphicsScene
+
+#endif // MYGRAPHICSCENE_H

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images/renwu">
+        <file alias="lixiaoyao">images/renwu/lixiaoyao.png</file>
+        <file alias="zhaolinger">images/renwu/zhaolinger.png</file>
+    </qresource>
+    <qresource prefix="/images/mainwindow">
+        <file>images/MainWindow/jiudehuiyi.png</file>
+        <file alias="MainWindow">images/MainWindow/MainWindow.png</file>
+        <file>images/MainWindow/tuiyinjianghu.png</file>
+        <file>images/MainWindow/xindekaishi.png</file>
+    </qresource>
+    <qresource prefix="/images/map">
+        <file alias="map1">images/map/map1.png</file>
+    </qresource>
+    <qresource prefix="/images/diren">
+        <file alias="shilaimu">images/diren/shilaimu.png</file>
+    </qresource>
+</RCC>
